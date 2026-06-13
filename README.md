@@ -135,9 +135,9 @@ via the CSV logs.
 - Deploy as a public demo (Streamlit Community Cloud / Hugging Face Spaces)
 
 ## 👥 Authors
-
-- Aruhi Patel  
-- Charu Sinha 
+ 
+- Charu Sinha
+- Aruhi Patel 
 
 ## 🤝 Collaboration
 
