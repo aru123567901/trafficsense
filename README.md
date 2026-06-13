@@ -133,3 +133,12 @@ via the CSV logs.
 - Speed estimation per vehicle
 - Live webcam / RTSP stream support instead of uploaded video
 - Deploy as a public demo (Streamlit Community Cloud / Hugging Face Spaces)
+
+## 👥 Authors
+
+- Aruhi Patel  
+- [Friend Name]
+
+## 🤝 Collaboration
+
+This project was developed as a collaborative effort. Both contributors worked together on design, development, and testing.
