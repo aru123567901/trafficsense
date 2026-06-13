@@ -137,7 +137,7 @@ via the CSV logs.
 ## 👥 Authors
 
 - Aruhi Patel  
-- [Friend Name]
+- Charu Sinha 
 
 ## 🤝 Collaboration
 
